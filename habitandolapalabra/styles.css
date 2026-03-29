@@ -36,7 +36,6 @@ body {
   width: min(100%, 1500px);
   margin: 0 auto;
   padding: clamp(96px, 12vh, 170px) clamp(18px, 3vw, 44px) clamp(40px, 6vw, 92px);
-  text-transform: lowercase;
 }
 
 .intro {
